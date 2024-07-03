@@ -1,0 +1,60 @@
+{
+  "questions": [
+    {
+      "question": "what is your name",
+      "answer": "My name is Animus"
+    },
+    {
+      "question": "hello",
+      "answer": "Hi!"
+    },
+    {
+      "question": "hi",
+      "answer": "Hello!"
+    },
+    {
+      "question": "what is the capital of italy",
+      "answer": "Rome"
+    },
+    {
+      "question": "what is the color of the sky",
+      "answer": "Blue"
+    },
+    {
+      "question": "how are you",
+      "answer": "I'm doing great!"
+    },
+    {
+      "question": "how are you doing mate",
+      "answer": "I'm doing good"
+    },
+    {
+      "question": "whats up",
+      "answer": "Not much, what about you?"
+    },
+    {
+      "question": "say something funny",
+      "answer": "Your love life"
+    },
+    {
+      "question": "tell me more",
+      "answer": "I don't want to"
+    },
+    {
+      "question": "ok",
+      "answer": "ok?"
+    },
+    {
+      "question": "whats the capital of england",
+      "answer": "London"
+    },
+    {
+      "question": "does pineapple go on pizza",
+      "answer": "Yes!! Pineapple absolutely goes on pizza!!"
+    },
+    {
+      "question": "where are you",
+      "answer": "I am everywhere..."
+    }
+  ]
+}
